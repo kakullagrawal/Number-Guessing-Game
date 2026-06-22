@@ -27,11 +27,11 @@ Use the hints to get closer to the correct number.
 Guess the number before running out of attempts.
 Choose whether to play another round.
 Difficulty Levels
-Level	Number Range	Attempts
-Easy	1–100	5
-Medium	1–200	9
-Hard	1–500	13
-Learning Objectives
+Level	Number Range	Attempts:
+Easy	1–100 -	5
+Medium	1–200 -	9
+Hard	1–500	- 13
+Learning Objectives:
 
 This project demonstrates:
 
@@ -40,7 +40,8 @@ Conditional Statements (if-elif-else)
 User Input Handling
 Random Number Generation
 Game Logic Design
-Future Improvements
+
+Future Improvements:
 Input validation for non-numeric values
 Score tracking system
 Leaderboard feature
